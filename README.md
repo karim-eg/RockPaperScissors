@@ -19,7 +19,7 @@
 <br>
 
 ## Contribute 🙌
-💛 If You Want To Write This Game In A Different Language You Know, You Can Open A Pull Request
+💛 If You Want To Write This Game In A Different Language You Know, You Can Open A Pull Request.
 
 <br>
 
