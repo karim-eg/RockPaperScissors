@@ -2,7 +2,7 @@
 [![StandWithPalestine](https://raw.githubusercontent.com/karim-eg/StandWithPalestine/main/assets/palestine_badge.svg)](https://github.com/karim-eg/StandWithPalestine)
 
 ## Rock Paper Scissors 🪨📃✂️
-🎮 Simple Game Written With 4 Different Programming Languages **[<a href="https://github.com/karim-eg/RockPaperScissors/blob/main/RockPaperScissors.kt">Kotlin</a>, <a href="https://github.com/karim-eg/RockPaperScissors/blob/main/RockPaperScissors.java">Java</a>, <a href="https://github.com/karim-eg/RockPaperScissors/blob/main/RockPaperScissors.py">Python</a>, <a href="https://github.com/karim-eg/RockPaperScissors/blob/main/RockPaperScissors.go">Go</a>]** For Practise And Fun.
+🎮 Simple Game Written With 4 Different Programming Languages **[<a href="https://github.com/karim-eg/RockPaperScissors/blob/main/RockPaperScissors.kt">Kotlin</a>, <a href="https://github.com/karim-eg/RockPaperScissors/blob/main/RockPaperScissors.java">Java</a>, <a href="https://github.com/karim-eg/RockPaperScissors/blob/main/RockPaperScissors.py">Python</a>, <a href="https://github.com/karim-eg/RockPaperScissors/blob/main/RockPaperScissors.go">Go</a>]** For Practice And Fun.
 
 > Don't forget to <a href="https://github.com/karim-eg/RockPaperScissors">Star</a> and <a href="https://github.com/karim-eg/RockPaperScissors/fork">Fork</a> this project.
 
